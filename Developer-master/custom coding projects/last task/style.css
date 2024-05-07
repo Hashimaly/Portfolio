@@ -1,0 +1,33 @@
+
+#main{
+	background-image: url(img/1.jpg);
+	height: 570px;
+	width: 100%;
+	background-size: cover;
+}
+.main1{
+	background-image: url(img/1.jpg);
+	height: 670px;
+	width: 100%;
+	background-size: cover;
+
+}
+.rampart{
+	font-family:'Rampart One', cursive;
+}
+a button:focus {
+ color: red;
+}
+.shade{
+	background-color: rgba(255,255,255,0.2);
+}
+.img{
+	padding:0px;
+	margin: 0px;
+}
+.main2{
+	background-image: url(img/07.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}

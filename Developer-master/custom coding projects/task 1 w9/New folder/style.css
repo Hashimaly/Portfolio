@@ -1,0 +1,327 @@
+nav{/*height: 50px;
+	width: 60%;*/
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-decoration: none;
+	/*position: sticky;*/
+	top:11px
+
+
+}
+
+img{
+	height: 35px;
+	width: 30%;
+	padding-right: 100px;
+	margin-right: 10px
+}
+a{
+	/*text-decoration: none;*/
+	padding-left: 15px;
+	padding-bottom: 0px;
+	color: tomato;
+	border-right: 1px solid white
+	
+}
+button:hover{
+	color: red;
+	font-family: sans-serif;
+	background: black;
+	border-radius: 30%
+} 
+#main{
+	height:300px;
+	width: 60%;
+	background-image:  url(../bg1.jpg)  ;
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+
+	text-align: center;
+	margin-top: 0px
+	padding:0px;
+}
+ .shadee{
+	background-color: rgba(0,0,0,0.3);
+	height: 300px;
+	width:100%;
+}
+#main h1{
+	color: tomato;
+	text-align: center;
+	font-size: 45px;
+	display: inline-block;
+	padding-top: 85px;
+	margin-top: 20px;
+	text-transform: uppercase;	
+	
+
+}
+#main p{
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	display: inline-block;
+	margin-top: -20px;
+	margin-bottom: -10px;
+
+}
+hr{
+	width: 300px;
+	background-color: tomato;
+	border:1px solid tomato;
+	padding-top: -30px;
+
+}
+#main button{
+	background-color: tomato;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+#main1{
+	height: 450px;
+	width: 60%;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom:  10px
+}
+#main1 img{
+	height:50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-left: 80px;
+	margin-top: 15px;
+	margin-bottom: 40px
+
+}
+.a{
+	height: 200px;
+	width: 29%;
+	border:2px solid black;
+	float:left;
+	margin: 10px;
+	text-align: center;
+	color: black;
+	margin-bottom: 20px;
+		display: inline-block}
+
+ .ab{
+	font-size: 20px;
+	font-family: sans-serif;
+	padding-top: 0px
+}
+#main1 h5{
+	font-size: 18px;
+	margin-top: -5px;
+	margin-bottom: 10px;
+}
+.a p{
+	font-size: 14px;
+	color: black;
+	margin-top: -80px;
+}
+
+
+
+.abc{
+	font-size: 12px;
+}
+#main2{
+	height: 250px;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	 background-color: lightgray;
+	 text-align: center;
+padding-top:  30px
+
+}
+#main2 img{
+height: 230px;
+width: 70%;
+float: right;
+margin-right: -100px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+#main2 button{float: left;
+text-align: center;
+background-color: tomato;
+font-size: 30px;
+margin-top: 20px;
+margin-left: 50px;
+padding-right: 20px;
+margin-bottom: 30px;
+border-radius: 10%;}
+#main2 p{
+font-size: 20px;
+color: blue;
+font-size: 10px;
+float: left;
+display: inline-block;
+margin-bottom: -100
+}
+
+#main3{
+height: 350px;
+background-image: url(../priscilla-du-preez-zZYchexti_0-unsplash.jpg);
+background-size: cover;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	 text-align: center;
+padding: 1px
+
+}
+  .shade1{
+	background-color: rgba(0,0,0,0.8);
+	width: 100%;
+	height: 350px;
+
+}
+#main3 h1{
+	font-size: 45px;
+	margin-top: 0px;
+	padding-top: 120px;
+	padding-bottom: -10px;
+	text-transform: uppercase;
+	color: tomato;
+}
+button{
+	font-size: 35px;
+	background-color: tomato;
+	border-radius: 10px;
+	margin-bottom: 20px
+}
+ p{
+	margin-top: -20px;
+	margin-bottom: -10px;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	margin-top: -20px;
+	margin-bottom: -10px;
+
+}
+
+#main4{
+	height: 400px;
+background-size: cover;
+	width: 60%;
+	background-color: lightgray;
+	margin-left: auto;
+	margin-right: auto;
+	 text-align: center;
+padding: 1px;
+font-size: 20px
+
+}
+#main4 img{
+height: 350px;
+width: 50%;
+float: right;
+margin-right: -100px;
+margin-top: 20px;
+margin-bottom: 0px;
+font-size: 15px
+}
+#main4 button{float: left;
+text-align: center;
+background-color: tomato;
+font-size: 30px;
+margin-top: 20px;
+margin-left: 50px;
+padding-right: 20px;
+margin-bottom: 30px;
+border-radius: 10%;}
+#main4 p{color: tomato;
+	font-family: sans-serif;
+	padding-bottom: -10px;
+
+}
+#main4 h1 {
+	color: black;
+	font-size: 40px;
+	margin-bottom: 10px;
+	padding-right: 15px
+
+}
+#main4 p{
+	font-size: 40px;
+}
+
+h3{
+	font-size: 23px;
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
+*{font-size: 20px;}
+
+#main5{height: 300px;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(../rami-al-zayat-w33-zg-dNL4-unsplash.jpg);
+	background-size: cover;
+
+}
+.shade5{
+	height: 300px;
+	width:100%;
+	background-color: rgba(255,255,255,0.2);
+
+}
+.img-main5{
+	margin-left: 350px;
+	
+	height: 100px;
+	width: 90px;
+	margin-top: 30px;
+}
+#main5 p{
+
+margin-left: 250px;
+	font-size: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px
+}
+#main6{
+	height: 110px;
+	width: 60%;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+}
+.color{
+	color: white;
+
+}
+.mono{
+	float: right;
+	margin-right: 90px;
+	margin-top: -55px;
+	text-transform: uppercase;
+}
+.follow{
+	float: right;height: 60px;
+	width: 40px;
+	margin-top: -15px;
+	margin-right: 30px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
